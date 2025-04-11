@@ -2,8 +2,10 @@
   "extras": [
     "lazyvim.plugins.extras.ai.copilot",
     "lazyvim.plugins.extras.coding.yanky",
+    "lazyvim.plugins.extras.editor.dial",
     "lazyvim.plugins.extras.formatting.prettier",
     "lazyvim.plugins.extras.lang.go",
+    "lazyvim.plugins.extras.lang.markdown",
     "lazyvim.plugins.extras.ui.alpha",
     "lazyvim.plugins.extras.util.dot",
     "lazyvim.plugins.extras.util.mini-hipatterns"
