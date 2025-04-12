@@ -9,7 +9,7 @@ return {
 	  ██║ ╚████║███████╗╚██████╔╝ ╚████╔╝ ██║██║ ╚═╝ ██║
 	  ╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═══╝  ╚═╝╚═╝     ╚═╝
 
-	                   [ @aqilfzn ]
+	                   [ Aqil Fauzan ]
     ]]
     opts.section.header.val = vim.split(logo, "\n", { trimempty = true })
   end,
